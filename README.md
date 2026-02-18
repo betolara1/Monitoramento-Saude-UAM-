@@ -47,10 +47,10 @@ O foco principal é o controle de **Hipertensão** e **Diabetes**, permitindo o 
 | ![Dashboard](assets/screenshots/dashboard-geral.png) | ![Prontuário](assets/screenshots/paciente-prontuario.png) |
 | *Visão geral para profissionais* | *Histórico clínico detalhado* |
 
-| Gestão de Medicamentos |
+| Ferramentas Avançadas | Controle Farmacêutico |
 |:---:|:---:|
-| ![Medicamentos](assets/screenshots/gestao-medicamentos.png) |
-| *Controle de prescrições* |
+| ![Calculadora de Risco](assets/screenshots/calculadora-risco.png) | ![Medicamentos](assets/screenshots/gestao-medicamentos.png) |
+| *Algoritmo automatizado de risco cardiovascular* | *Controle de dispensação e horários de medicação* |
 
 ## 🚀 Como Executar (Ambiente de Desenvolvimento)
 
