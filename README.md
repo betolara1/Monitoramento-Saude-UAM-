@@ -44,12 +44,12 @@ O foco principal é o controle de **Hipertensão** e **Diabetes**, permitindo o 
 
 | Dashboard & Métricas | Prontuário do Paciente |
 |:---:|:---:|
-| ![Dashboard](assets/screenshots/dashboard-medico.png) | ![Prontuário](assets/screenshots/cadastro-paciente.png) |
+| ![Dashboard](assets/screenshots/dashboard-geral.png) | ![Prontuário](assets/screenshots/paciente-prontuario.png) |
 | *Visão geral para profissionais* | *Histórico clínico detalhado* |
 
 | Gestão de Medicamentos |
 |:---:|:---:|
-| ![Medicamentos](assets/screenshots/lista-medicamentos.png) |
+| ![Medicamentos](assets/screenshots/gestao-medicamentos.png) |
 | *Controle de prescrições* |
 
 ## 🚀 Como Executar (Ambiente de Desenvolvimento)
