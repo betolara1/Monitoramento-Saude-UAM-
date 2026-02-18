@@ -2,7 +2,7 @@
 
 > Uma plataforma completa para gestão de saúde pública e privada, focada no acompanhamento de pacientes com Doenças Crônicas Não Transmissíveis (DCNTs).
 
-![Banner Principal](assets/screenshots/1.png)
+![Banner Principal](assets/screenshots/dashboard-geral.png)
 *(Dica: Substitua essa linha acima por um GIF navegando pelo sistema)*
 
 ## 📄 Sobre o Projeto
